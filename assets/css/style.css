@@ -1,0 +1,65 @@
+body{
+  background:black;
+}
+.calculator{
+  width:50%;
+  margin-left:20%;
+  border:1px white solid;
+}
+.bubble{
+  width:150px;
+
+  background:gray;
+  text-align:center;
+  margin-left:5%;
+  height:150px;
+  font-size: 30px;
+  margin-top:5%;
+}
+
+.active{
+  background:#262626;
+}
+.multiply{
+  background:green;
+
+}
+.minus{
+  background:green;
+}
+.bubble:hover{
+  background:#b3b3b3;
+}
+.divide{
+  background:green
+}
+.equal{
+  background:#e6e6e6;
+}
+.clear{
+  background:red;
+}
+.add{
+  background:green
+}
+tr{
+  margin-top:5%;
+}
+.total{
+  font-weight: bold;
+  text-align: right;
+margin-right:30%;
+  font-size: 50px;
+  margin-top:1%;
+  color:white;
+
+
+
+}
+.answer{
+  color:orange;
+}
+
+.equal{
+  background:white;
+}
